@@ -1,5 +1,9 @@
 # irFFB
 
+
+Update: Here is a great video talking about this version - https://www.youtube.com/watch?v=lcHAX-OS58A&t=207s
+
+
 There is a table embedded in irFFB.cpp with a list of road cars and their associated values for yaw and lateral factors
 in calculating the force level for an understeer condition to occur.  I modified irFFB so that those values
 could be set in the gui as Understeer Release Force and an Understeer Force Multiplier.  
