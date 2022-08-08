@@ -1,22 +1,27 @@
 # irFFB2022
 
 
-Update: Here is a great video talking about this version - https://www.youtube.com/watch?v=lcHAX-OS58A&t=207s
+irFFB2022 is an update to irFFB that is found on the nlp80/irffb github repository that was last updated sometime in 2020.  The irFFB2022 version keeps the core internals as in the original version of irFFB, but simplifies the configuration and controls of irFFB so that users can optimize their settings for their car and track.   The key objective was to make irFFB easy to understand and easy to use. As a result, you will find it much easier to optimize your FFB experience in iRacing and achieve most consistent lap times over a longer period of time.  For those NextGen Cup racers, you may even find yourself recovering from those dreaded snap spins. It was those snap spins that got me to come back and take a new look at irFFB.
 
+New Features:
 
-There is a table embedded in irFFB.cpp with a list of road cars and their associated values for yaw and lateral factors
-in calculating the force level for an understeer condition to occur.  I modified irFFB so that those values
-could be set in the gui as Understeer Release Force and an Understeer Force Multiplier.  
+•	Easy to Understand Modes
 
-![irFFB](https://user-images.githubusercontent.com/8271391/139556754-b960c6b3-c790-4cb3-80e7-f62fb05c6d07.png)
+•	Automatic -360 Smoothing Mode for a blend of Low Latency and Telemetry Enhancements
 
+•	Previous “Offsets” were modified and presented as “Effect Timings” in a simple single control slider
 
-Those two settings need to be set for a car and track in order to get the right level.  To set them, drive the car on the track and as you go into a corner, turn the wheel AGGRESSIVELY into the turn past 90 degrees to force an understeer (push) condition.  You should
-feel the wheel "break away" as you would in real life where the wheels are turned but the car keeps going straight.
+•	SoP renamed to Oversteer to make it easier to understand
 
-Most of the time the Understeer Force Multiplier will be 2x which is default and you should target the Understeer Release Force around 30.  
-With that said, these settings will depend A LOT on caster settings.  I have found some cars will need the multiplier at 1.
-Once you feel it break away, keep tuning the Understeer Release Force until you like the feel but can still tell when the car enters an oversteer (push) condition.
-You will find in a race that you can hold that edge and find the perfect line.
+•	Understeer enabled for all cars and easily configured with a slider
 
-In my experience, this gives the <2NM wheels a chance at being competitive again and will make your laps more consistent.
+•	Car and Track combinations are saved together to reduce configure a car for a track
+
+![Screen Shot 2022-08-08 at 5 40 21 AM](https://user-images.githubusercontent.com/8271391/183484997-ffed5e9e-df1c-43fa-b0d0-75975f3f113c.png)
+![Screen Shot 2022-08-08 at 5 40 34 AM](https://user-images.githubusercontent.com/8271391/183485016-a027c9c7-e594-4e1b-8be1-356b5acd3c3d.png)
+
+Two guides are posted in the release link:
+
+The TL;DR (aka Short Version) and the Long version.  I attached those so you can use them as reference.
+
+I would like to stress that you run irFFB2022 (and irFFB) before you launch into a sim session.  It really does not like to start after the session.  Maybe a fix for that at a later date.
