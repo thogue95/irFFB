@@ -24,4 +24,4 @@ Two guides are posted:
 
 The TL;DR (aka Short Guide) and the Long Guide.  I attached those so you can use them as reference.
 
-I would like to stress that you run irFFB2022 (and irFFB) before you launch into a sim session.  It really does not like to start after the session.  Maybe a fix for that at a later date.
+I would like to stress that you run irFFB2022 before you launch into a sim session.  It really does not like to start after the session.  Maybe a fix for that at a later date.  If you are still running irFFB, the same suggestion applies.
