@@ -3,9 +3,7 @@
 Update Sept 8, 2022:  irFFB2022 Version 2
 irFFB2022 Version 2 adds a SimHub Connector capability along with the SimHub Connector Plugin and 2 SimHub overlays to install into your SimHub environment to bring irFFB2022 controls into your car while you are on the track.  No more guessing what irFFB is doing, whether or not it is running correctly and now you can dial your force feedback to the perfect levels while racing. You GET control!!!
 
-![irFFB2022 Overlay no data](https://user-images.githubusercontent.com/8271391/189239935-31e69f93-8367-40de-b0c4-ab66251cda01.png)
-
-![irFFB2022 Status green](https://user-images.githubusercontent.com/8271391/189239958-9b7ac50e-cc55-4860-8a8f-4de308d41e94.png)
+![irFFB2022 Overlay no data](https://user-images.githubusercontent.com/8271391/189239935-31e69f93-8367-40de-b0c4-ab66251cda01.png) ![irFFB2022 Status green](https://user-images.githubusercontent.com/8271391/189239958-9b7ac50e-cc55-4860-8a8f-4de308d41e94.png)
 
 Find the irFFB2022v2 document for instructions and details on how to make it work.  For those that don't read...
 
