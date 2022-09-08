@@ -18,10 +18,15 @@ TL;DR (Too long, Did not read)
 
 Files to download:
 irFFB2022.exe
+
 Toms.irFFB2022Connector.dll
+
 Toms.irFFB Dash.zip
+
 Toms.irFFB Status.zip
+
 irFFB2022.pdf - How to guide
+
 
 
 If you don't have SimHub, sorry this release won't do you any good. 
