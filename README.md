@@ -12,7 +12,7 @@ TL;DR (Too long, Did not read)
 1.	Copy irFFB2022.exe over the previous version
 2.	Install Toms.irFFB2022Connector.dll into the SimHub directory
 3.	Install the two overlays into the DashTemplate subdirectory
-4.	Bind Keys
+4.	Bind Keys or Buttons to actions
 5.	Setup screen with overlays
 6.	When in car on track, press the button/key that Max Force was mapped to several times to activate the connector 
 
