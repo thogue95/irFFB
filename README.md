@@ -1,3 +1,7 @@
+!!!!STOP and READ!!!
+
+#iRFFB2026 was just released at github.com/thogue95/irFFB2026.  This is a massive upgrade to irFFB and more stable. **
+
 # irFFB2022
 Note: Source code will be coming shortly.  
 
